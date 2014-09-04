@@ -1,7 +1,6 @@
 Author: Peiwei Ge		
 Date: 02/04/2013						
 Project ID: prog1			
-CS Class: CS513			
 Programming Language: C
 OS/Hardware dependencies: Linux	
 				
