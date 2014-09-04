@@ -1,0 +1,150 @@
+login Albert
+add 133718101 Kevin Wang FULLERA21
+add 133916202 Michael Jordan playinggolf
+add 188916433 BOB Kinicki FL135
+add 037889554 Gabor Sarkozy FL134
+list A Z
+remove 133718101 
+remove 137889553
+add 000000001 Mark Claypool on-the-pitch_playing-soccer
+add 666666666  Robinson Crusoe lostonanisland
+add Yuncheng Ge ChineseNewYear-in-HongKong
+remove 137889554
+list
+list B C
+list K
+list F
+quit
+login Bill
+add 
+add 13871945 Emmanuel Agu FL139
+add 138719455 Emmanuel Agu FL139
+add 137634625 Joseph FL138
+add 137634626 Joseph Beck FL138
+add 123456789  Ya B b
+add 999999999 Tom Brady NOTintheSuperBowlin2013
+add 999999998 Baltimore Ravens intheSuperBowl
+add 133865306 Thisisacrazyguyidon'twanttoseeagain Breecher FLxxx
+add 133865307 Jerry Thisisacrazyguyidon'twanttoseehimagain FLxxx
+list B
+list G W
+add 133865307 Jerry Breecher 4KingStreet_Worcester
+Add 4897_5118 Tony Smith worcester_MA
+Add 489735118 Tony Smith worcester MA
+Add 589735118 Tony Smith Thisaddressissolongthatwecannotacceptit
+Add 589735118 Tony Smith WORCESTER_MA
+add 424242424 Xi Ding Shanghai
+list A Z
+remove 13871945
+remove 138719455
+remove 137634626
+list 
+list C B
+list B C
+list K
+list K K
+list D D
+quit
+login Tony
+add 188916433 Bob Kinicki FL135
+add 188916433 Charles Rich FL135
+add 133718101 Kevin Cao FULLERA21
+add 137889554 Can Tatar FLA21
+add 138719455 Emmanuel Agu laterthanever
+add 137634626 Joseph Beck FL138
+list A Z
+remove 137634626
+remove 137634626
+list B B
+add 137634626 Joseph Beck FLxxx
+list 
+quit
+login stantheman
+quit
+login bubba
+add 111111222 Al Al atthemall
+add 503503509 Dan Dougherty FL136
+add 503503509 Dan DD FL136
+add 777777777 stan selkow  bangkok_Thailand
+add 503503510   Charles  Rich  B25b
+add 503503510 Charles Rich B25
+list D 
+list D S
+remove 000000001
+list
+add 503503511 Charles Rich B25b
+add 503503512 Charles Rich B25b
+add 503503513 Charles Rich B25b
+add 503503514 Charles Rich B25b
+add 503503515 Charles Rich B25b
+add 503503516 Charles Rich B25b
+add 503503517 Charles Rich B25b
+add 503503518 Charles Rich B25b
+add 503503519 Charles Rich B25b
+add 503503520 Charles Rich B25b
+add 503503521 Charles Rich B25b
+add 503503522 Charles Rich B25b
+add 000000002 Mark Claypool B25a
+add 503503523 Charles Rich B25b
+add 503503524 Charles Rich B25b
+add 503503525 Charles Rich B25b
+add 503503526 Charles Rich B25b
+add 503503527 Charles Rich B25b
+add 503503528 Charles Rich B25b
+add 503503529 Charles Rich B25b
+add 503503530 Charles Rich B25b
+add 503503531 Charles Rich B25b
+add 503503532 Charles Rich B25b
+add 503503533 Charles Rich B25b
+add 503503534 Charles Rich B25b
+add 503503535 Charles Rich B25b
+add 503503536 Charles Rich B25b
+add 503503537 Charles Rich B25b
+add 503503538 Charles Rich B25b
+add 503503539 Charles Rich B25b
+add 503503540 Charles Rich B25b
+add 503503541 Charles Rich B25b
+add 503503542 Charles Rich B25b
+add 503503543 Charles Rich B25b
+add 503503544 Charles Rich B25b
+add 503503545 Charles Rich B25b
+add 503503546 Charles Rich B25b
+add 503503547 Charles Rich B25b
+add 503503548 Charles Rich B25b
+add 503503549 Charles Rich B25b
+add 503503550 Charles Rich B25b
+add 503503551 Charles Rich B25b
+add 503503552 Charles Rich B25b
+add 503503553 Charles Rich B25b
+add 503503554 Charles Rich B25b
+add 503503555 Charles Rich B25b
+add 503503556 Charles Rich B25b
+add 503503557 Charles Rich B25b
+add 503503558 Charles Rich B25b
+add 503503559 Charles Rich B25b
+add 503503560 Charles Rich B25b
+add 503503561 Charles Rich B25b
+add 503503562 Charles Rich B25b
+add 503503563 Charles Rich B25b
+add 503503564 Charles Rich B25b
+add 503503565 Charles Rich B25b
+add 503503566 Charles Rich B25b
+add 503503567 Charles Rich B25b
+add 503503568 Charles Rich B25b
+add 503503569 Charles Rich B25b
+add 503503570 Charles Rich B25b
+add 503503571 Charles Rich B25b
+add 503503572 Charles Rich B25b
+add 503503573 Charles Rich B25b
+add 503503574 Charles Rich B25b
+add 503503575 Charles Rich B25b
+add 503503576 Charles Rich B25b
+add 503503577 Charles Rich B25b
+add 503503578 Charles Rich B25b
+add 503503579 Charles Rich B25b
+list B C
+list R R
+remove 503503558
+remove 999999999 
+list
+quit EOF    
